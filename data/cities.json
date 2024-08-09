@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Sevilleja de la Jara",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-09T20:42:05.490Z",
+      "notes": "asdfsafdsa",
+      "position": {
+        "lat": "39.53793974517628",
+        "lng": "-4.898363244365581"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Mediterranean Sea",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2024-08-09T20:42:30.204Z",
+      "notes": "sdfasfsdafaf",
+      "position": {
+        "lat": "36.96744946416934",
+        "lng": "3.7353515625000004"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Serta",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-08-09T20:44:04.995Z",
+      "notes": "sfasfad",
+      "position": {
+        "lat": "39.825413103424786",
+        "lng": "-8.239746093750002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Abuja",
+      "country": "Nigeria",
+      "emoji": "🇳🇬",
+      "date": "2024-08-09T20:47:54.272Z",
+      "notes": "I live there currently and i school in the university of Abuja.",
+      "position": {
+        "lat": "9.082797163764928",
+        "lng": "7.521514892578126"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Jeli",
+      "country": "Malaysia",
+      "emoji": "🇲🇾",
+      "date": "2024-08-09T20:50:06.482Z",
+      "notes": "",
+      "position": {
+        "lat": "5.691537443834827",
+        "lng": "101.86523437500001"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Camp Thunder Cove",
+      "country": "British Indian Ocean Territory (the)",
+      "emoji": "🇮🇴",
+      "date": "2024-08-09T20:52:23.092Z",
+      "notes": "",
+      "position": {
+        "lat": "-5.290054823710368",
+        "lng": "71.80664062500001"
+      },
+      "id": 98443205
+    }
+  ]
+}
