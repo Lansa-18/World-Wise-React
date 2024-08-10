@@ -10,6 +10,7 @@ function Sidebar() {
       <Logo />
       <AppNav />
 
+      {/* Using the Outlet component to render the nested route of cities */}
       <Outlet />
 
       <Footer />

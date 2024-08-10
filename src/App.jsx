@@ -20,19 +20,19 @@ function App() {
           <Route index element={<Homepage />} />
           <Route path="product" element={<Product />} />
           <Route path="pricing" element={<Pricing />} />
-          <Route path="app" element={<AppLayout />}>
-            {/* CREATING A DEFAULT INDEX ROUTE */}
-            <Route index element={<Navigate to="cities" replace />} />
 
-            {/* CREATING NESTED ROUTES */}
+          {/* CREATING INDEX & NESTED ROUTES */}
+          <Route path="app" element={<AppLayout />}>
+            <Route index element={<Navigate to="cities" replace />} />
             <Route path="cities" element={<CityList />} />
+            <Route path="countries" element={<CountriesList />} />
+            <Route path="form" element={<Form />} />
 
             {/* CREATING A PARAM  */}
             <Route path="cities/:id" element={<City />} />
-
-            <Route path="countries" element={<CountriesList />} />
-            <Route path="form" element={<Form />} />
           </Route>
+
+
           <Route path="login" element={<Login />} />
           <Route path="*" element={<PageNotFound />} />
         </Routes>

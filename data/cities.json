@@ -61,18 +61,6 @@
       "id": 98443199
     },
     {
-      "cityName": "Serta",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2024-08-09T20:44:04.995Z",
-      "notes": "sfasfad",
-      "position": {
-        "lat": "39.825413103424786",
-        "lng": "-8.239746093750002"
-      },
-      "id": 98443200
-    },
-    {
       "cityName": "Abuja",
       "country": "Nigeria",
       "emoji": "🇳🇬",
@@ -85,28 +73,16 @@
       "id": 98443201
     },
     {
-      "cityName": "Jeli",
-      "country": "Malaysia",
-      "emoji": "🇲🇾",
-      "date": "2024-08-09T20:50:06.482Z",
-      "notes": "",
+      "cityName": "Terras de Bouro",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2024-08-09T22:32:27.297Z",
+      "notes": "dfasdf",
       "position": {
-        "lat": "5.691537443834827",
-        "lng": "101.86523437500001"
+        "lat": "41.80407814427237",
+        "lng": "-8.151855468750002"
       },
-      "id": 98443204
-    },
-    {
-      "cityName": "Camp Thunder Cove",
-      "country": "British Indian Ocean Territory (the)",
-      "emoji": "🇮🇴",
-      "date": "2024-08-09T20:52:23.092Z",
-      "notes": "",
-      "position": {
-        "lat": "-5.290054823710368",
-        "lng": "71.80664062500001"
-      },
-      "id": 98443205
+      "id": 98443202
     }
   ]
 }
